@@ -1,0 +1,5 @@
+<form action="" method="post" class="form">
+    <label for="name">Ф.И.О</label>
+     <input type="text" name="name" id="name" placeholder="Введите ваше ФИО" required>
+    <button class="button" type="submit">Готово!</button>
+</form>
